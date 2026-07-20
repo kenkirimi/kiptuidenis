@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
 
 
-- 🔭 I’m currently working on **Bursar**
+- - 🔭 I’m currently working on **[Bursar](https://bursar.co.ke)** – a budgeting app that locks your funds and disburses a preset amount daily via M-Pesa.
 
 - 🌱 I’m currently learning **AI**
 
