@@ -1,39 +1,50 @@
-<h1 align="center">Hi 👋, I'm Kiptui Denis</h1>
-<h3 align="center">AI Engineer from Kenya</h3>
-<h1 align="center">:briefcase: Key Info and Links</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
+<h1 align="center">Hi 👋, I'm Denis Kiptui</h1>
+<h3 align="center">Software Engineer | AI Engineer | Backend Developer</h3>
 
-
-- 🔭 I’m currently working on **[Bursar](https://bursar.co.ke)** – a budgeting app that locks your funds and disburses a preset amount daily via M-Pesa.
-
-- 🌱 I’m currently learning **AI**
-
-- 💬 Ask me about **AI integration to your applications.**
-
-- 📫 How to reach me **kiptuidenis@gmail.com**
-
-- ⚡ Fun fact **Nairobi, the capitol of Kenya has earned the nickname "Silicon Savannah" due to its thriving tech industry.**
-
-<h1 align="left">🔧 Languages and Tools:</h1>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C language" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<p align="center">
+  I build scalable backend systems, AI-powered applications, and developer tools that solve real-world problems.
 </p>
 
+---
 
+### 🚀 About Me
+
+- 🔭 I’m currently working on **[Bursar](https://bursar.co.ke)** – a budgeting app that locks your funds and disburses a preset amount daily via M-Pesa.
+- 🌱 I’m currently learning **AI**
+- 💬 Ask me about **AI integration to your applications.**
+- 📫 How to reach me **[kiptuidenis@gmail.com](mailto:kiptuidenis@gmail.com)**
+- ⚡ Fun fact: **Nairobi, the capital of Kenya, has earned the nickname "Silicon Savannah" due to its thriving tech industry.**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/denis-kiptui" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/kiptuidenis" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,typescript,javascript,java,html,css,react,nextjs,nodejs,tailwind,bootstrap,mysql,sqlite,postgres,docker,nginx,git,github,linux,aws,tensorflow,pytorch,vscode,postman&perline=9" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiptuidenis&show_icons=true&theme=github_dark" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiptuidenis&layout=compact&theme=github_dark" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiptuidenis&theme=github-dark-blue" alt="GitHub Streak"/>
+</p>
