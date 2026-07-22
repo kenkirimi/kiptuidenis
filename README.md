@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **kiptuidenis@gmail.com**
 
-- ⚡ Fun fact **Nairobi, the capitol of Kenya has earned the nickname "Silicon Savannah" due to its thriving tech industry.**
 
 <h1 align="left">🔧 Languages and Tools:</h1>
 <p align="left">
