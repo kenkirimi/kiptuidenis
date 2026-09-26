@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI integration to your applications.**
 
-- 📫 How to reach me **kiptuidenis@gmail.com**
+- 📫 How to reach me **kenkiriminteere@yahoo.com**
 
 
 <h1 align="left">🔧 Languages and Tools:</h1>
