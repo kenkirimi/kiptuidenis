@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kiptui Denis</h1>
+<h1 align="center">Hi 👋 </h1>
 <h3 align="center">AI Engineer from Kenya</h3>
 <h1 align="center">:briefcase: Key Info and Links</h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/kiptuidenis/kiptuidenis/blob/main/programmer.gif" alt="Image Description">
